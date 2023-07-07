@@ -20,7 +20,7 @@ Maven, SQL on the Back-End.
 
 - 🗺️ Want to know more? Check out my **[Portfolio](https://ankitdeshpande.github.io/)** 🌐
 
-- ⚡ Fun fact - **I Like watching WebSeries 😎**
+- ⚡ Fun fact - **I Like watching Anime, Reading Manga and Manhwas 😎**
 <img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/ZSZTGUtpQr0u7cfveB/giphy.gif">
 
 <h3 align="left">Lets talk:</h3>
