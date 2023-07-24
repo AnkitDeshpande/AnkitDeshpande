@@ -33,7 +33,7 @@
 <p align="center"> 
   <span style="margin-right: 10px;">
     <a href="https://www.linkedin.com/in/ankit-deshpande/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="40">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="70">
     </a>
   </span>
   <span style="margin-right: 10px;">
