@@ -11,7 +11,7 @@
   <img src = "https://github-profile-trophy.vercel.app/?username=ankitdeshpande&theme=onedark" />
   <img src="https://komarev.com/ghpvc/?username=vaishkiyarminal001&label=Visitors&color=0e75b6&style=flat" alt="Profile Views">
 </p>
-
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
@@ -23,13 +23,13 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="Git Badge">
 </p>
-
+<br>
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitdeshpande&&theme=tokyonight" alt="GitHub Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitdeshpande&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitdeshpande&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
-
+<br>
 
 <h3 align="center">Let's Connect:</h3>
 <p align="center"> 
@@ -44,7 +44,7 @@
     </a>
   </span>
 </p>
-
+<br>
 
 
 <h3 align="center">About Me:</h3>
@@ -57,9 +57,10 @@
 
 - 🗺️ Want to know more? Check out my **[Portfolio](https://ankitdeshpande.github.io/)** 🌐
 
-
+<br>
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <p align="center"> 
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50cd3144-a4f0-43a8-b464-78a1714e8628/dchoqoo-c9cb91ac-14cc-49da-9ac1-5786676e8893.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwY2QzMTQ0LWE0ZjAtNDNhOC1iNDY0LTc4YTE3MTRlODYyOFwvZGNob3Fvby1jOWNiOTFhYy0xNGNjLTQ5ZGEtOWFjMS01Nzg2Njc2ZTg4OTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nNAiX6RCm94AEDVNp0-2AOI8d2xo_8TmFxcIn1Kmt0M" alt="Anime GIF" width="100%">
 </p>
+<br>
