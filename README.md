@@ -30,7 +30,7 @@ Maven, SQL on the Back-End.
  </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) </p>
+<p align="left"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitdeshpande&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ankitdeshpande" /></p>
 
