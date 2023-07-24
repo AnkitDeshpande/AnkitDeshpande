@@ -2,8 +2,10 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="100%">
+  <br>
 <h3 align="center">Dedicated and detail-oriented aspiring developer with over 1200 hours of coding experience. Capable of writing production-ready code using HTML, CSS, JavaScript on the Front-End and Spring, Hibernate, Java, Maven, SQL on the Back-End.</h3>
 </p>
+<br>
 
 <p align="center">
   <img src = "https://github-profile-trophy.vercel.app/?username=ankitdeshpande&theme=onedark" />
