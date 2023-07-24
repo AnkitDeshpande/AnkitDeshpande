@@ -9,7 +9,14 @@ Maven, SQL on the Back-End.
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishkiyarminal001&label=Visitors&color=0e75b6&style=flat" alt="vaishkiyarminal001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishkiyarminal001&label=Visitors&color=0e75b6&style=flat" alt="vaishkiyarminal001" /><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate Badge">
+
+
+
+
+
+ </p>
 
 
 - 🔭 I’m currently learning **JAVA Back-End & Spring**
