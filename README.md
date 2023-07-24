@@ -30,9 +30,10 @@
 
 
 <h3 align="center">Let's Connect:</h3>
-
-  <a href="https://www.linkedin.com/in/ankit-deshpande/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="40"></a>
-  <a href="https://www.instagram.com/ankitdeshpande45/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30" width="40"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankit-deshpande/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="40"></a></p>
+  <p align="center">
+  <a href="https://www.instagram.com/ankitdeshpande45/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30" width="40"></a></p>
 
 
 <h3 align="center">About Me:</h3>
