@@ -3,10 +3,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="100%">
 <h3 align="center">Dedicated and detail-oriented aspiring developer with over 1200 hours of coding experience. Capable of writing production-ready code using HTML, CSS, JavaScript on the Front-End and Spring, Hibernate, Java, Maven, SQL on the Back-End.</h3>
-  <img src = "https://github-profile-trophy.vercel.app/?username=ankitdeshpande&theme=onedark" />
 </p>
 
 <p align="center">
+  <img src = "https://github-profile-trophy.vercel.app/?username=ankitdeshpande&theme=onedark" />
   <img src="https://komarev.com/ghpvc/?username=vaishkiyarminal001&label=Visitors&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
