@@ -33,14 +33,14 @@
 <br>
 
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <p style="align : center; flex-wrap: wrap;">
     <img alt="Ankit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitdeshpande&theme=radical&hide_border=true&stroke=0000&background=#122722"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitdeshpande&theme=2077" style="display: block; margin: 20px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitdeshpande&theme=2077" style="display: block; margin: 20px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitdeshpande&theme=2077" style="display: block; margin: 20px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitdeshpande&theme=2077" style="display: block; margin: 20px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitdeshpande&theme=2077&utcOffset=8" style="display: block; margin: 20px;">
-  </div>
+  </p>
 </div>
 
 
