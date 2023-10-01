@@ -13,16 +13,23 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate Badge">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="Git Badge">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=MySql&logoColor=white" alt="MySql">
+    <img src="https://img.shields.io/badge/springboot-64b743?style=for-the-badge&logo=springboot&logoColor=white" alt="Springboot">
+    <img src="https://img.shields.io/badge/hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+    <img src="https://img.shields.io/badge/Postman-f15a24?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
+    <img src="https://img.shields.io/badge/Swagger-679200?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger">
+    <img src="https://img.shields.io/badge/json%20server-323455?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JSON Server">
+    <img src="https://img.shields.io/badge/netlify-blue.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+    <img src="https://img.shields.io/badge/vercel-gray.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+    <img src="https://img.shields.io/badge/Git-dd4c35?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=Github&logoColor=white" alt="Github">
+    <img src="https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white" alt="STS">
 </p>
+
 <br>
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitdeshpande&&theme=tokyonight" alt="GitHub Streak Stats">
