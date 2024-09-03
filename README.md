@@ -66,7 +66,7 @@
 
 <h3 align="center">About Me:</h3>
 
-- 🔭 I’m currently learning **JAVA Back-End & Spring**
+- 🔭 I’m currently learning **DEVOPS**
  
 - 💬 Ask me about **Spring, Java, Hibernate, JavaScript, HTML, CSS, MySQL.**
 
