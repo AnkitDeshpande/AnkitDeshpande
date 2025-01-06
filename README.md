@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Ankit Deshpande</h1>
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"></a></p>
+  <img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"></a></p>
 <!--   <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="Coding GIF" width="100%"> -->
   <br>
 <h3 align="center">Dedicated and detail-oriented aspiring developer with over 1200 hours of coding experience. Capable of writing production-ready code using HTML, CSS, JavaScript on the Front-End and Spring, Hibernate, Java, Maven, SQL on the Back-End.</h3>
