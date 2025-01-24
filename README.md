@@ -28,13 +28,23 @@
     <img src="https://img.shields.io/badge/Git-dd4c35?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=Github&logoColor=white" alt="Github">
     <img src="https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white" alt="STS">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df" alt="BUN JS">
+    <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
+    <img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
 </p>
+
 
 <br>
 
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <p align="center">
-    <img alt="Ankit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitdeshpande&theme=radical&hide_border=true&stroke=0000&background=#122722"/>
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com?user=ankitdeshpande&theme=radical" alt="GitHub Streak" /> -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitdeshpande&theme=2077" style="display: block; margin: 20px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitdeshpande&theme=2077" style="display: block; margin: 20px;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitdeshpande&theme=2077" style="display: block; margin: 20px;">
