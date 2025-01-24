@@ -12,6 +12,11 @@
   <img src="https://komarev.com/ghpvc/?username=vaishkiyarminal001&label=Visitors&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 <br>
+
+
+<p align="center">
+    <strong>Programming Languages & Frameworks</strong>
+</p>
 <p align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -20,14 +25,6 @@
     <img src="https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=MySql&logoColor=white" alt="MySql">
     <img src="https://img.shields.io/badge/springboot-64b743?style=for-the-badge&logo=springboot&logoColor=white" alt="Springboot">
     <img src="https://img.shields.io/badge/hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
-    <img src="https://img.shields.io/badge/Postman-f15a24?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
-    <img src="https://img.shields.io/badge/Swagger-679200?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger">
-    <img src="https://img.shields.io/badge/json%20server-323455?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JSON Server">
-    <img src="https://img.shields.io/badge/netlify-blue.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-    <img src="https://img.shields.io/badge/vercel-gray.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-    <img src="https://img.shields.io/badge/Git-dd4c35?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=Github&logoColor=white" alt="Github">
-    <img src="https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white" alt="STS">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS">
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
@@ -35,8 +32,23 @@
     <img src="https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df" alt="BUN JS">
     <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
     <img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+</p>
+
+
+<p align="center">
+    <strong>Utility Tools</strong>
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Postman-f15a24?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
+    <img src="https://img.shields.io/badge/Swagger-679200?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger">
+    <img src="https://img.shields.io/badge/json%20server-323455?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JSON Server">
+    <img src="https://img.shields.io/badge/netlify-blue.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+    <img src="https://img.shields.io/badge/vercel-gray.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/Git-dd4c35?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=Github&logoColor=white" alt="Github">
+    <img src="https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white" alt="STS">
 </p>
 
 
