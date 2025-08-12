@@ -92,7 +92,7 @@
  
 - 💬 Ask me about **Spring, Java, Hibernate, JavaScript, HTML, CSS, MySQL.**
 
-- 📫 You will find me at **urstrulyankit@protonmail.com**
+- 📫 You will find me at **ankitdeshpande1998@gmail.com**
 
 - 🗺️ Want to know more? Check out my **[Portfolio](https://ankitdeshpande.github.io/)** 🌐
 
